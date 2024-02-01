@@ -1,0 +1,9 @@
+{
+    "my_string_var": "test",
+    "my_int_var": 1234,
+    "my_secret_var": "my_secret",
+    "my_json_var": {
+        "key1": "val1",
+        "key2": 123
+    }
+}
